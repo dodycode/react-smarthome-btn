@@ -1,5 +1,5 @@
 import React from 'react';
-import ToggleLightButton from './components/ToggleLightButton/index.jsx';
+import ToggleLightButton from './components/ToggleLightButton';
 import './App.css';
 
 function App() {
